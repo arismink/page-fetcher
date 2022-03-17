@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "node app that takes two command line arguments and downloads the resource at the URL to the local path on matchine. ",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arismink/page-fetcher.git"
+  },
+  "author": "KL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arismink/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/arismink/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
